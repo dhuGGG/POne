@@ -1,0 +1,4 @@
+先git remote add <本地仓库名> <github项目 ssh链接> （eg. git@github.com:dhuGGG/POne.git）创建本地仓库
+接着git add <file>上传到缓冲区
+再git commit -m "<描述>"注释改动
+最后git push <本地仓库名> master 从缓冲区上传到github
